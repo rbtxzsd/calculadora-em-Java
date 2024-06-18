@@ -1,2 +1,2 @@
 # calculadora-em-Java
-calculadora básica em Java (utilizada apenas para estudos de poo)
+calculadora básica em Java, utilizei para estudos de poo.
